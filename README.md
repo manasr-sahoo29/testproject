@@ -1,5 +1,5 @@
-# iMediXcare
-### iMediXcare — A web-based telemedicine cum digital healthcare system.
+# Testing only
+### Testing only — A web-based telemedicine cum digital healthcare system.
 iMediXcare is an open-source web-based system. It is developed for providing remote consultation to the patients. 
 
 - #### Platform and environment details
