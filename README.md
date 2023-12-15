@@ -1,6 +1,6 @@
 # Testing only
-### Testing only — A web-based telemedicine cum digital healthcare system.
-iMediXcare is an open-source web-based system. It is developed for providing remote consultation to the patients. 
+### Testing only — A web-based testing only system.
+testing only is an open-source web-based system. It is developed for providing remote consultation to the patients. 
 
 - #### Platform and environment details
     The system is built on the Java platform. The required technologies and software are following 
@@ -16,4 +16,4 @@ iMediXcare is an open-source web-based system. It is developed for providing rem
     We always appreciate all for their participation and collaboration. If you are looking to contribute to iMediXcare, first of all, thank you! Please see our guidelines for contributing.
 
 - ### License 
-    iMediXcare is licensed under the Apache license 2.0 - see the [LICENSE](./LICENSE) file for details.
+    Testing only is licensed under the Apache license 2.0 - see the [LICENSE](./LICENSE) file for details.
