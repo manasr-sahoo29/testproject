@@ -1,2 +1,0 @@
-java imedix.iMediXAppServer 
-pause
